@@ -50,3 +50,9 @@ D:\UC\Projeto_UC07\6623\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.Cop
 D:\UC\Projeto_UC07\6623\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 D:\UC\Projeto_UC07\6623\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 D:\UC\Projeto_UC07\6623\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+D:\UC\Projeto_UC07\6623\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\listaDeUsuarios.cshtml.g.cs
+D:\UC\Projeto_UC07\6623\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\needAdmin.cshtml.g.cs
+D:\UC\Projeto_UC07\6623\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\registrarUsuarios.cshtml.g.cs
+D:\UC\Projeto_UC07\6623\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\cadastroRealizado.cshtml.g.cs
+D:\UC\Projeto_UC07\6623\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\editarUsuario.cshtml.g.cs
+D:\UC\Projeto_UC07\6623\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\excluirUsuario.cshtml.g.cs
